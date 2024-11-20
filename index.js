@@ -1,4 +1,4 @@
-const jsonServer = require ("json-serve");
+const jsonServer = require ("json-server");
 const serve = jsonServer.create();
 const router = jsonServer.router("almacen.json");
 const middlewares = jsonServer.defaults();
