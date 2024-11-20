@@ -1,0 +1,79 @@
+{
+  "eventos": [
+    {
+      "id": "eve-01",
+      "nombre": "Expo Autos 2024",
+      "fecha": "16-10-2024",
+      "img": "https://i.postimg.cc/bSD3FqwJ/Expo-Autos-1920x600.jpg",
+      "ubicacion": "Mall Plaza Norte",
+      "descripcion": "Ya llega la 6ta edición de la “Expo Autos 2024”, organizada por la Escuela de Ingeniería y Recursos Naturales de Duoc UC"
+    },
+    {
+      "id": "eve-02",
+      "nombre": "Hackathon",
+      "fecha": "20-10-2024",
+      "img": "https://i.postimg.cc/3kHnn558/hackathon.jpg",
+      "ubicacion": "DuocUc Maipú",
+      "descripcion": "¡Únete al evento de innovación más esperado del año, durante 48 horas desarrola soluciones técnologicas, colabora con expertos y desafía tus límites"
+    },
+    {
+      "id": "eve-03",
+      "nombre": "Portafolio Night",
+      "fecha": "30-10-2024",
+      "img": "https://i.postimg.cc/TKqQs7fr/header-portafolio-night-1920x600.jpg",
+      "ubicacion": "DuocUC San Carlos de Apoquindo",
+      "descripcion": "Portafolio Night 2024, es un evento global organizado por The One Club for Creativity, que se llevará a cabo simultáneamente en 20 países con el objetivo de generar un impacto positivo en las nuevas generaciones de talentos creativos."
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "user01",
+      "username": "Denise",
+      "password": "denise1234",
+      "email": "deni.ulloa@duocuc.cl",
+      "rut": "",
+      "isactive": true
+    },
+    {
+      "id": "user02",
+      "username": "Roberto",
+      "password": "roberto1234",
+      "rut": "20826267-k",
+      "email": "ro.acuna@duocuc.cl",
+      "isactive": true,
+      "profile": "assets/perfil6.jpg"
+    },
+    {
+      "id": "1412",
+      "username": "cachupin",
+      "email": "cachupin@gmail.com",
+      "password": "cachupin1234",
+      "isactive": true
+    },
+    {
+      "id": "2f06",
+      "username": "javier",
+      "email": "duoc@duocuc.cl",
+      "rut": "11222333-4",
+      "password": "duoc1234",
+      "isactive": true
+    }
+  ],
+  "inscripciones": [
+    {
+      "id": "111b",
+      "usuarioId": "1412",
+      "eventoId": "eve-03"
+    },
+    {
+      "id": "a354",
+      "usuarioId": "2f06",
+      "eventoId": "eve-01"
+    },
+    {
+      "id": "5f5d",
+      "usuarioId": "user02",
+      "eventoId": "eve-03"
+    }
+  ]
+}
