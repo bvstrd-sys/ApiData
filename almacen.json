@@ -75,5 +75,15 @@
       "usuarioId": "user02",
       "eventoId": "eve-03"
     }
+  ],
+  "UsuarioAdmin":[
+    {
+      "id": "admin01",
+      "username": "Roberto",
+      "email": "Roberto@eventos.com",
+      "rut": "11222333-4",
+      "password": "roberto1234",
+      "isactive": true
+    }
   ]
 }
