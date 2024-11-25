@@ -4,7 +4,7 @@
       "id": "eve-01",
       "nombre": "Expo Autos 2024",
       "fecha": "16-10-2024",
-      "img": "https://i.postimg.cc/bSD3FqwJ/Expo-Autos-1920x600.jpg",
+      "imagen": "https://i.postimg.cc/bSD3FqwJ/Expo-Autos-1920x600.jpg",
       "ubicacion": "Mall Plaza Norte",
       "descripcion": "Ya llega la 6ta edición de la “Expo Autos 2024”, organizada por la Escuela de Ingeniería y Recursos Naturales de Duoc UC"
     },
@@ -12,7 +12,7 @@
       "id": "eve-02",
       "nombre": "Hackathon",
       "fecha": "20-10-2024",
-      "img": "https://i.postimg.cc/3kHnn558/hackathon.jpg",
+      "imagen": "https://i.postimg.cc/3kHnn558/hackathon.jpg",
       "ubicacion": "DuocUc Maipú",
       "descripcion": "¡Únete al evento de innovación más esperado del año, durante 48 horas desarrola soluciones técnologicas, colabora con expertos y desafía tus límites"
     },
@@ -20,7 +20,7 @@
       "id": "eve-03",
       "nombre": "Portafolio Night",
       "fecha": "30-10-2024",
-      "img": "https://i.postimg.cc/TKqQs7fr/header-portafolio-night-1920x600.jpg",
+      "imagen": "https://i.postimg.cc/TKqQs7fr/header-portafolio-night-1920x600.jpg",
       "ubicacion": "DuocUC San Carlos de Apoquindo",
       "descripcion": "Portafolio Night 2024, es un evento global organizado por The One Club for Creativity, que se llevará a cabo simultáneamente en 20 países con el objetivo de generar un impacto positivo en las nuevas generaciones de talentos creativos."
     }
